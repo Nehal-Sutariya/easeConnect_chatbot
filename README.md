@@ -1,4 +1,4 @@
-WhatsEase - Fullstack Chat App
+easeConnect_chatbot
 
 Contents:
 - backend/: FastAPI app using MongoDB (motor)
