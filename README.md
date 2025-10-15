@@ -1,5 +1,7 @@
 easeConnect_chatbot
 
+On vercel:  https://ease-connect-chatbot.vercel.app/
+
 Contents:
 - backend/: FastAPI app using MongoDB (motor)
 - frontend/: Minimal React app (no UI libraries)
